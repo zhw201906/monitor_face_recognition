@@ -1,0 +1,2 @@
+# monitor_face_recognition
+使用虹软SDK开发的视频人脸识别系统
